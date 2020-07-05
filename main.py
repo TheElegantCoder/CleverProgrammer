@@ -1,22 +1,15 @@
+# function with arguments, multiple arguments and loops 
+
 import turtle
 
-cherepashka = turtle.Turtle()
-
+my_turtle = turtle.Turtle()
 def square():
-  cherepashka.forward(100)
-  cherepashka.right(90)
-  cherepashka.forward(100)
-  cherepashka.right(90)
-  cherepashka.forward(100)
-  cherepashka.right(90)
-  cherepashka.forward(100)
-  cherepashka.right(90)
-
-square()
-cherepashka.backward(100)
-square()
-
-square()
-cherepashka.forward(130)
-square()
+  my_turtle.forward(100)
+  my_turtle.right(90)
+  my_turtle.forward(100)
+  my_turtle.right(90)
+  my_turtle.forward(100)
+  my_turtle.right(90)
+  my_turtle.forward(100)
+  my_turtle.right(90)
 

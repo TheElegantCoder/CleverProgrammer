@@ -26,3 +26,16 @@ for x in range(180):
   print(x)
 
 #Yey!!!! It worked! I created a loop!!!!
+
+# Qazi's Code for Circle of Squares:
+
+import turtle
+my_turtle = turtle.Turtle()
+my_turtle.speed(0)
+def square(length,angle)
+  for i in range(100)
+  square(100,90)
+  my_turtle.right(11)
+
+#Circle has 360 degrees
+#360/10 -->36 We take the next undividible integer (11), so the squares are not overlapping.
